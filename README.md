@@ -1,5 +1,7 @@
 # webperf-vocabulary
 
+# Acronyms
+
 WPO
 SSR
 CSR
@@ -13,8 +15,6 @@ TTFB
 LCP
 FCP
 FP
-SpeedIndex
-Above The Fold
 TBT
 WPT
 CPU
@@ -34,5 +34,9 @@ HTTP
 HTTP/2
 ESM
 
+# Other terms
+
+SpeedIndex
+Above The Fold
 
 https://csswizardry.com/2020/11/site-speed-topography/
