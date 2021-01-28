@@ -21,6 +21,18 @@ CPU
 JS
 CSS
 WOFF
+CrUX
+LH
+SPOF
+SPA
+CDT
+RAM
+TCP
+TLS
+DNS
+HTTP
+HTTP/2
+ESM
 
 
 https://csswizardry.com/2020/11/site-speed-topography/
