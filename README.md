@@ -2,6 +2,9 @@
 
 # Acronyms
 
+URL
+WEBP
+AVIF
 WPO
 SSR
 CSR
@@ -10,9 +13,12 @@ CWV
 RUM
 GA
 SERP
+FID
 SEO
 TTFB
 LCP
+PSI
+SSL
 FCP
 FP
 TBT
