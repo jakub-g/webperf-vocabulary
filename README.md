@@ -27,17 +27,21 @@ CPU
 JS
 CSS
 WOFF
-CrUX
-LH
-SPOF
-SPA
-CDT
+CrUX - Chrome User Experience Report
+LH - Lighthouse
+SPOF - Single Point of Failure
+SPA - Single Page Application
+PWA - Progressive Web Application
+CDT - Chrome DevTools
 RAM
 TCP
 TLS
+TTL
 DNS
 HTTP
 HTTP/2
+HTTP/3
+QUIC
 ESM
 
 # Other terms
