@@ -44,10 +44,15 @@ HTTP/3
 QUIC
 ESM
 PRPL
+UT
+
 
 # Other terms
 
 SpeedIndex
 Above The Fold
+
+# Drop
+PLT-https://blog.patrickmeenan.com/2013/07/measuring-performance-of-user-experience.html
 
 https://csswizardry.com/2020/11/site-speed-topography/
